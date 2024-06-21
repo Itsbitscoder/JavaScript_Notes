@@ -1,11 +1,11 @@
-const accountId =14432
+const accountId = 14432
 let accountEmail = "kunal@gmail.com"
 var accountPassword = "2241"
 accountCity = "Mumbai" //dont use whitout using variable
 let accountState;
 
-// accountId = 2 Not Allowed
-accountEmail = "Jadhav@gmail.com"
+// accountId = 2 Not Allowed Because it is Const..
+accountEmail = "Jadhav@gmail.com" // is can be updated because of let and var
 accountPassword = "7536"
 accountCity = "Pune"
 
