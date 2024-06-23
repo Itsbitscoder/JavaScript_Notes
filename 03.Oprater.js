@@ -64,3 +64,4 @@ let gameCounter = 100
 gameCounter++; //=> profix
 ++gameCounter; //=> prifix
 console.log(gameCounter);
+
